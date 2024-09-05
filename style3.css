@@ -1,0 +1,18 @@
+li{
+    display: block;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    transition-duration: 0.5s;
+    border-radius: 0.5cap;
+    background-color: lightgray;
+}
+
+ul{
+    display: block;
+    background-color: antiquewhite;
+    width: 120px;
+    border-radius: 0.5cap;
+    color: palegoldenrod;
+    text-align: center;
+}
