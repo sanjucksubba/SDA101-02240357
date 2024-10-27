@@ -1,0 +1,267 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1, h2 {
+    text-align: center;
+}
+section {
+    padding: 20px;
+}
+
+.item {
+    text-align: center;
+}
+
+
+.bike  {
+    background-image:url(img.webp);
+    color: white;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+.cta-button {
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+.portfolio img {
+    width: 100%;
+    height: 200px;
+    object-fit: cover;
+}
+
+
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+.book{
+    text-align: center;
+    background-color:lightgray
+
+}
+.button{
+    border-color: black;
+    text-align: center;
+    margin: 10px;
+    padding: 10px 20px;
+    background-color:white;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+    border-radius: 10px;
+    
+}
+.sure  {
+    background-image:url(https://emfurn.com/cdn/shop/articles/Blog_photos_-_2024-10-15T013927.258.png?v=1728927639&width=1500);
+    color: white;
+    height: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+}
+.cut {
+    padding: 10px 20px;
+    background-color: white;
+    color: black;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 0;
+}
+.header img {
+    width: 32%;
+    border-radius: 10px;
+}
+.intro {
+    text-align: center;
+    padding: 50px 0;
+    background-color: #333;
+    color: #fff;
+}
+.stats {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px 0;
+    background-color: #fff;
+}
+.stats div {
+    text-align: center;
+    padding: 20px;
+    background-color: #f4f4f4;
+    border-radius: 10px;
+    width: 20%;
+}
+.team {
+        text-align: center;
+        padding: 50px 0;
+}
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+        .faq-container {
+            width: 80%;
+            margin: auto;
+            padding: 2em;
+        }
+        .faq {
+            background-color: #fff;
+            margin: 1em 0;
+            padding: 1em;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .faq h2 {
+            margin: 0;
+            font-size: 1.2em;
+            cursor: pointer;
+        }
+        .faq p {
+            display: none;
+            font-size: 1em;
+            margin: 1em 0 0 0;
+        }
+        .faq.open p {
+            display: block;
+        }
+          
+        .body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: white;
+        }
+        .container {
+            width: 80%;
+            max-width: 1200px;
+            margin: 20px auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .form-container {
+            display: flex;
+            justify-content: space-between;
+        }
+        .form {
+            width: 45%;
+        }
+        .form input, .form textarea {
+            width: 100%;
+            padding: 10px;
+            margin: 10px 0;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+        .form button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        .form button:hover {
+            background-color: #45a049;
+        }
+        .office-setup {
+            width: 45%;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .office-setup img {
+            width: 100%;
+            border-radius: 5px;
+        }
+        .info {
+            display: flex;
+            justify-content: space-between;
+            margin-top: 20px;
+        }
+        .info div {
+            width: 30%;
+            background-color: black;
+            color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            text-align: center;
+        }      
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            padding: 20px;
+        }
+        .header {
+            background-color: black;
+            color: white;
+            padding: 20px 0;
+        }
+        .section {
+            margin: 20px 0;
+            padding: 20px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .section img {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+        }
+        .section h2 {
+            margin: 10px 0;
+        }
+        .section p {
+            color: gray;
+        }
+        .footer {
+            margin-top: 20px;
+            font-size: 12px;
+            color: gray;
+        }
